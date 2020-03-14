@@ -65,3 +65,9 @@ h6 {
   background: var(--mainBrown);
 
 }
+
+.menu,
+.footer {
+  background: var(--mainGrey);
+
+}
